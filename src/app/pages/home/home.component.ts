@@ -9,8 +9,7 @@ import {MenuBarComponent} from '../../components/menu-bar/menu-bar.component';
   imports: [
     MenuTitleComponent,
     BigCardComponent,
-    SmallCardComponent,
-    MenuBarComponent
+    SmallCardComponent
   ],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css'
